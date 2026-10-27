@@ -1,0 +1,1 @@
+ C:\\Users\\Max\\AndroidStudioProjects\\lab2c\\lab2\\.dart_tool\\flutter_build\\b13601f6461f731dc5698806c637c420\\build_hooks_result.json: 
